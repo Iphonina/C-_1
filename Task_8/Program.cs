@@ -5,7 +5,7 @@ int count = 2;
 
 while(count <= N)
 {
-    Console.WriteLine(count);
+    Console.Write(count + ", ");
     count = count + 2;
 }
 
